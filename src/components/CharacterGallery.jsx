@@ -4,6 +4,7 @@ function CharacterGallery() {
     return ( 
         <>
             <Character />
+            <div>hello world</div>
         </>
     );
 }
